@@ -1,0 +1,3 @@
+public enum ClassType {
+    YOGA, PILATES, SPINNING, ZUMBA, WEIGHTLIFTING, CARDIO
+}
