@@ -1,0 +1,34 @@
+# Compiled output and archives
+*.class
+*.jar
+build/
+out/
+target/
+bin/
+*.zip
+
+# Local IDE settings
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Assignment documents
+*.pdf
+*.docx
+*.xlsx
+
+# Temporary output and local data
+tmp/
+data/
+*.log
+*.tmp
+*.bak
+
+# Credentials
+.env
+.env.*
+*.pem
+*.key
